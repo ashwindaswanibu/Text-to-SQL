@@ -1,2 +1,2 @@
 # Text-to-SQL
-[the project documentation](Report)
+[the project documentation](Report.pdf)
